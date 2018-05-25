@@ -1,0 +1,23 @@
+{
+  "name": "lazarus_rest_api",
+  "version": "1.0.0",
+  "description": "RESTful Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Restful",
+    "API"
+  ],
+  "author": " ",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  },
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
+  }
+}
